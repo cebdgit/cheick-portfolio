@@ -72,7 +72,7 @@ export default function Projects() {
                         <p className="mt-6 max-w-2xl text-base leading-relaxed text-zinc-400 md:text-lg">
                             Des projets réalisés autour du développement
                             logiciel, des architectures AWS et de
-                            l'automatisation des déploiements.
+                            l&apos;automatisation des déploiements.
                         </p>
 
                     </div>

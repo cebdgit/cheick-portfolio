@@ -74,11 +74,11 @@ export default function About() {
                             </p>
 
                             <p className="text-base leading-relaxed text-zinc-500 md:text-lg">
-                                Mon parcours en Génie Logiciel m'a permis de
+                                Mon parcours en Génie Logiciel m&apos;a permis de
                                 développer une base solide en programmation et
                                 en conception logicielle, tandis que mes
-                                expériences AWS m'ont permis de mieux comprendre
-                                le déploiement d'applications dans le Cloud.
+                                expériences AWS m&apos;ont permis de mieux comprendre
+                                le déploiement d&apos;applications dans le Cloud.
                             </p>
 
                         </div>
