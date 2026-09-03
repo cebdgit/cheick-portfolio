@@ -84,11 +84,11 @@ export default function Hero() {
                             <br />
 
                             <span className="text-white">
-                                Cheick El
+                                Cheick
                             </span>{" "}
 
                             <span className="text-zinc-600">
-                                Diarra.
+                                El Diarra.
                             </span>
                         </motion.h1>
 
