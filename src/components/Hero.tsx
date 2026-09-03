@@ -88,7 +88,7 @@ export default function Hero() {
                             </span>{" "}
 
                             <span className="text-zinc-600">
-                                El Diarra.
+                                Diarra.
                             </span>
                         </motion.h1>
 
