@@ -156,32 +156,32 @@ export const projects: Project[] = [
         featured: true,
     },
 
-    {
-        id: 6,
-        category: "FULL-STACK / CLOUD",
-        title: "Urban Panne Reporting",
-        shortDescription:
-            "Application de signalement des pannes urbaines.",
-        description:
-            "Projet de plateforme permettant aux utilisateurs de signaler des pannes urbaines à partir d'une photo, d'une description et de leur localisation. Le projet constitue une opportunité de combiner développement Full-Stack, géolocalisation et architecture Cloud.",
-        technologies: [
-            "React",
-            "Next.js",
-            "Django",
-            "REST API",
-            "PostgreSQL",
-            "AWS",
-        ],
-        features: [
-            "Signalement avec photo",
-            "Description de la panne",
-            "Géolocalisation",
-            "Visualisation sur carte",
-            "API backend",
-            "Déploiement Cloud",
-        ],
-        github: "",
-        demo: "",
-        featured: true,
-    },
+    // {
+    //     id: 6,
+    //     category: "FULL-STACK / CLOUD",
+    //     title: "Urban Panne Reporting",
+    //     shortDescription:
+    //         "Application de signalement des pannes urbaines.",
+    //     description:
+    //         "Projet de plateforme permettant aux utilisateurs de signaler des pannes urbaines à partir d'une photo, d'une description et de leur localisation. Le projet constitue une opportunité de combiner développement Full-Stack, géolocalisation et architecture Cloud.",
+    //     technologies: [
+    //         "React",
+    //         "Next.js",
+    //         "Django",
+    //         "REST API",
+    //         "PostgreSQL",
+    //         "AWS",
+    //     ],
+    //     features: [
+    //         "Signalement avec photo",
+    //         "Description de la panne",
+    //         "Géolocalisation",
+    //         "Visualisation sur carte",
+    //         "API backend",
+    //         "Déploiement Cloud",
+    //     ],
+    //     github: "",
+    //     demo: "",
+    //     featured: true,
+    // },
 ];

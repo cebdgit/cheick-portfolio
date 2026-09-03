@@ -87,7 +87,7 @@ export default function CloudDevOps() {
                         </h2>
 
                         <p className="mt-7 max-w-2xl text-lg leading-relaxed text-zinc-400">
-                            J'explore les pratiques Cloud et DevOps pour automatiser
+                            J&apos;explore les pratiques Cloud et DevOps pour automatiser
                             le cycle de vie des applications et construire des
                             infrastructures fiables et évolutives.
                         </p>

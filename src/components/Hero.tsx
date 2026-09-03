@@ -84,7 +84,7 @@ export default function Hero() {
                             <br />
 
                             <span className="text-white">
-                                Cheick
+                                Cheick El
                             </span>{" "}
 
                             <span className="text-zinc-600">
