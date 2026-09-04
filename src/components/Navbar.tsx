@@ -66,7 +66,7 @@ export default function Navbar() {
                             href="#contact"
                             className="
                                 rounded-full
-                                bg-black/10
+                                bg-white/10
                                 px-5 py-2.5
                                 text-sm font-medium
                                 text-zinc-950

@@ -18,7 +18,7 @@ const skillGroups = [
             "JavaScript",
             "TypeScript",
             "Java",
-            "C++",
+            "PHP",
         ],
     },
     {
@@ -98,7 +98,7 @@ export default function Skills() {
 
                     <div>
                         <h2 className="max-w-5xl text-4xl font-bold leading-tight tracking-tight text-white md:text-6xl">
-                            Les outils que j'utilise pour
+                            Les outils que j&apos;utilise pour
                             <span className="text-zinc-600">
                                 {" "}construire.
                             </span>

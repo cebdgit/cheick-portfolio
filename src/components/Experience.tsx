@@ -30,7 +30,7 @@ const timeline = [
         icon: CloudIcon,
     },
     {
-        year: "2025",
+        year: "2026",
         type: "Certification",
         title: "Meta Back-End Developer",
         organization: "Meta",
@@ -39,7 +39,7 @@ const timeline = [
         icon: BriefcaseBusiness,
     },
     {
-        year: "—",
+        year: "2025",
         type: "Education",
         title: "Licence en Génie Logiciel",
         organization: "Formation universitaire",
