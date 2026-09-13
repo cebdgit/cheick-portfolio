@@ -20,14 +20,14 @@ const certifications = [
             "Programme de formation pratique consacré au Cloud Computing, aux fondamentaux AWS et à l'administration système.",
         verification: "https://www.credly.com/badges/d5fdb7c2-ac82-4fa1-9867-acfeb51ffbf6",
     },
-    {
-        title: "Cloud Computing",
-        organization: "Badge d’achèvement",
-        image: "/certifications/Badge d’achèvement Cloud Computing .png",
-        description:
-            "Badge attestant de l'achèvement d'une formation en Cloud Computing.",
-        verification: "https://www.coursera.org/account/accomplishments/badge/hDDZ0bggS_Cw2dG4IHvw-g",
-    },
+    // {
+    //     title: "Cloud Computing",
+    //     organization: "Badge d’achèvement",
+    //     image: "/certifications/Badge d’achèvement Cloud Computing .png",
+    //     description:
+    //         "Badge attestant de l'achèvement d'une formation en Cloud Computing.",
+    //     verification: "https://www.coursera.org/account/accomplishments/badge/hDDZ0bggS_Cw2dG4IHvw-g",
+    // },
     {
         title: "Meta Back-End Developer",
         organization: "Meta",
@@ -36,22 +36,22 @@ const certifications = [
             "Programme professionnel consacré au développement backend, aux API, aux bases de données et au développement logiciel.",
         verification: "https://www.credly.com/badges/635d6a0a-a61d-408d-9b90-8c678b776504",
     },
-    {
-        title: "AWS Cloud Quest",
-        organization: "Amazon Web Services",
-        image: "/certifications/Cloud Quest.png",
-        description:
-            "Parcours pratique permettant de développer et valider des compétences Cloud à travers des scénarios AWS.",
-        verification: "https://www.credly.com/badges/8f8f8f8f-8f8f-8f8f-8f8f-8f8f8f8f8f8f",
-    },
-    {
-        title: "Global Mentorship Initiative - Certificat GMI",
-        organization: "GMI",
-        image: "/certifications/Certificat GMI .png",
-        description:
-            "Certification obtenue dans le cadre du parcours de formation GMI.",
-        verification: "https://credentials.globalmentorship.org/credentials/49187dee-7572-4b93-bb66-60ca836d1ad5?preview=1",
-    },
+    // {
+    //     title: "AWS Cloud Quest",
+    //     organization: "Amazon Web Services",
+    //     image: "/certifications/Cloud Quest.png",
+    //     description:
+    //         "Parcours pratique permettant de développer et valider des compétences Cloud à travers des scénarios AWS.",
+    //     verification: "https://www.credly.com/badges/8f8f8f8f-8f8f-8f8f-8f8f-8f8f8f8f8f8f",
+    // },
+    // {
+    //     title: "Global Mentorship Initiative - Certificat GMI",
+    //     organization: "GMI",
+    //     image: "/certifications/Certificat GMI .png",
+    //     description:
+    //         "Certification obtenue dans le cadre du parcours de formation GMI.",
+    //     verification: "https://credentials.globalmentorship.org/credentials/49187dee-7572-4b93-bb66-60ca836d1ad5?preview=1",
+    // },
 ];
 
 export default function Certifications() {
